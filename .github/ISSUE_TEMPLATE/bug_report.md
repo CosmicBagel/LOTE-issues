@@ -31,3 +31,5 @@ If applicable, add screenshots and/or video to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+Don't forget to add appropriate labels to help duplicate searching!
