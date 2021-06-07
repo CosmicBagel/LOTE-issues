@@ -8,4 +8,4 @@ Issues tracker for Life on the Edge
     stick with that one noun to simplify searching
 3. If your issue doesn't exist hit `New Issue` and file your bug
     - The more information you provide, the more useful the bug report will be and the more likely it is we'll be able to fix the bug
-    - Add the appropriate tags! (Performance, Visual, Audio, Gameplay, UI)
+    - Add the appropriate labels! (Performance, Visual, Audio, Gameplay, UI, ect)
