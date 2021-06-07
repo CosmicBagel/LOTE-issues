@@ -2,7 +2,7 @@
 Issues tracker for Life on the Edge
 
 1. To get started open the `Issues` tab at the top
-2. Search for your bug in the existing issues to ensure it does not exist (always do this)
+2. Always search for your bug in the existing issues to ensure it does not exist
     - Its important to remember that many different nouns and adjectives are used when naming so be thorough 
     - Over time we'll establish a more consitent vocabulary, if you see a noun being used to describe something
     stick with that one noun to simplify searching
